@@ -1,7 +1,7 @@
 ---
 listing:
   id: listetutoriels
-  contents: modules
+  contents: tutoriels
   sort: "order asc"
   template: listing-grid.ejs
   categories: true

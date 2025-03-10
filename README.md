@@ -12,7 +12,7 @@ Les supports de formation sont déployés sur un site dédié :
 
 ## Contenu
 
-### Liste des modules disponibles
+### Liste des tutoriels disponibles
 
 -   Tutoriel sur la création de dataviz avec quarto et Closeread par [Anaël Delorme](https://github.com/anaelDelorme) (1/2 journée)
 
