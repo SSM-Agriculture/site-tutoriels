@@ -5,7 +5,7 @@ project:
     - "/tutoriels/**/*.qmd"
 
 website:
-  title: "Formations R dispensées au MASA"
+  title: "Tutoriels R présentés au MASA"
   navbar:
     left:
       - href: index.qmd
