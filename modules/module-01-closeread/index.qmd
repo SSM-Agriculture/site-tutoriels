@@ -1,0 +1,29 @@
+---
+image: closeread-logo.png
+title: Tutoriel Closeread
+description: |
+  <br>
+  Créer une première dataviz 
+  en datascrollytelling 
+  sur un thème qui vous tient à coeur.
+  <br>
+  <br>
+  <b>Durée : une demi-journée</b>
+abstract: |
+  <br>
+  Créer une première dataviz 
+  en datascrollytelling 
+  sur un thème qui vous tient à coeur.
+  <br>
+  <br>
+  <b>Durée : une demi-journée</b>
+categories:
+  - Scrollytelling
+html:
+  text: Html
+  url: https://ssm-agriculture.github.io/formation-R-initiation/
+pdf:
+  text: Pdf 
+  url: https://github.com/SSM-Agriculture/formation-R-initiation/raw/master/diaporama_pdf/Diaporama_initiation.pdf
+order: 2
+---
