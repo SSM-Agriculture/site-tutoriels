@@ -12,7 +12,7 @@ website:
         text: Accueil
       - icon: github
         href: https://github.com/SSM-Agriculture/site-tutoriels
-    background: "#008000"
+    background: "#c0a4eb"
 
 format:
   html:
