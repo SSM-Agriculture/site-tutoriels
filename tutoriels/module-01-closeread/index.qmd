@@ -22,8 +22,5 @@ categories:
 html:
   text: Html
   url: https://ssm-agriculture.github.io/formation-R-initiation/
-pdf:
-  text: Pdf 
-  url: https://github.com/SSM-Agriculture/formation-R-initiation/raw/master/diaporama_pdf/Diaporama_initiation.pdf
 order: 2
 ---
