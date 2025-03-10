@@ -1,0 +1,24 @@
+---
+listing:
+  id: modulesformations
+  contents: modules
+  sort: "order asc"
+  template: listing-grid.ejs
+  categories: true
+  grid-columns: 2
+page-layout: full
+toc: false
+---
+
+![](img/bandeau_agreste.jpg)
+
+## Modules de formations à {{< fa brands r-project >}} et {{< fa brands git-alt >}} dispensés au [MASA](https://agreste.agriculture.gouv.fr/agreste-web/)
+
+L'ensemble des modules peuvent être suivis indépendamment les uns des autres.
+
+Les supports sont sur le [`Github du SSM Agriculture` {{< fa brands github >}}](https://github.com/SSM-Agriculture)
+<br>
+<br>
+
+::: {#modulesformations}
+:::
