@@ -1,6 +1,6 @@
 ---
 listing:
-  id: modulesformations
+  id: listetutoriels
   contents: modules
   sort: "order asc"
   template: listing-grid.ejs
@@ -10,15 +10,13 @@ page-layout: full
 toc: false
 ---
 
-![](img/bandeau_agreste.jpg)
+## Liste de tutoriels liés à l'écosystème {{< fa brands r-project >}} dispensés au [MASA](https://agreste.agriculture.gouv.fr/agreste-web/)
 
-## Modules de formations à {{< fa brands r-project >}} et {{< fa brands git-alt >}} dispensés au [MASA](https://agreste.agriculture.gouv.fr/agreste-web/)
-
-L'ensemble des modules peuvent être suivis indépendamment les uns des autres.
+L'ensemble des tutoriels peuvent être suivis indépendamment les uns des autres.
 
 Les supports sont sur le [`Github du SSM Agriculture` {{< fa brands github >}}](https://github.com/SSM-Agriculture)
 <br>
 <br>
 
-::: {#modulesformations}
+::: {#listetutoriels}
 :::
